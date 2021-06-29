@@ -1,0 +1,22 @@
+body {
+    background-color: #000000;
+    color:aliceblue;
+    font-family:'Ubuntu', Arial, Helvetica, sans-serif;
+}
+blockquote {
+    font-style:italic;
+    color:aquamarine
+}
+figcaption {
+    text-indent:20ch;
+}
+
+table caption {
+    font-weight:bold;
+}
+th {
+    text-align:left;
+}
+table td {
+    border:1px grey;
+}
