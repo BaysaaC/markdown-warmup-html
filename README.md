@@ -50,3 +50,7 @@ Don't run into windows, kiddos !
 ### Check also our Liège gang:
 
 [<< previous](https://github.com/audricSki-v/markdown-challenge) || [Baysaa](https://github.com/Baysaaaa/markdown-challenge/blob/master/README.md) || [next >>](https://github.com/corentinIstace/markdown-challenge)
+
+### Check the HTML version here:
+
+https://baysaaaa.github.io/markdown-warmup-html/
